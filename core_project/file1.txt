@@ -1,3 +1,7 @@
 Some first text
 
 and another text update
+
+some text to test git stash
+
+some stash +1
